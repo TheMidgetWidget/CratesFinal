@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Crates">
+    <output-path>$PROJECT_DIR$/../../New folder/plugins</output-path>
+    <root id="archive" name="Crates.jar">
+      <element id="module-output" name="CratesFinal" />
+    </root>
+  </artifact>
+</component>

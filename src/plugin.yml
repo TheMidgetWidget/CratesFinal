@@ -1,0 +1,5 @@
+name: Crates
+main: me.lightlorddev.crates.Main
+version: 1.0
+commands:
+  crate:
